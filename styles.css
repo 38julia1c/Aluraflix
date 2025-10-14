@@ -7,4 +7,5 @@ body {
 header {
     border-bottom: solid 2px purple;
     padding: 20px;
+    font-size: 32px;
 }
