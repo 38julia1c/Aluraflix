@@ -37,4 +37,5 @@ img {
 
 .categoria-videos {
     display: felx;
+    overflow-x: auto;
 }
