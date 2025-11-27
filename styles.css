@@ -40,3 +40,8 @@ img {
     overflow-x: auto;
     gap: 20px;
 }
+
+.categoria {
+    padding-left: 20px;
+    padding-right: 20px;
+}
